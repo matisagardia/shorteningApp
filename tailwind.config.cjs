@@ -12,6 +12,10 @@ module.exports = {
       colors: {
         'regal-blue': '#243c5a',
         'cyan': 'hsl(180, 66%, 49%)',
+        'GrayishViolet': 'hsl(257, 7%, 63%)',
+        'Gray': 'hsl(0, 0%, 75%)',
+        'VeryDarkViolet': 'hsl(260, 8%, 14%)',
+        'DarkViolet': 'hsl(257, 27%, 26%)',
       },
     }
   },
