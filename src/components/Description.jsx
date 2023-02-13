@@ -7,7 +7,7 @@ export const Description = () => {
   return (
     <>
 
-        <div className="descriptionContainer w-full bg-slate-100 h-max relative pt-72 flex flex-col justify-center items-center">
+        <div className="descriptionContainer w-full bg-slate-100 h-max relative pt-44 pb-44 flex flex-col justify-center items-center">
             <div className="descriptionTitle flex flex-col items-center justify-center gap-8 w-1/4">
                 <h1 className='font-bold text-5xl text-VeryDarkViolet'>
                     Advanced Statistics
