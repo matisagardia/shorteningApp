@@ -22,7 +22,7 @@ export const Home = () => {
         </div>
     </div>
 
-    <div className='container mx-auto searchBox w-8/12 h-64 bg-DarkViolet flex justify-center items-center gap-10 relative rounded-2xl mt-20'>
+    <div className='container mx-auto searchBox w-8/12 h-64 bg-DarkViolet flex justify-center items-center gap-10 relative rounded-2xl mt-20 z-10'>
         <input type="text" placeholder='Shorten a link here...' className='searchInput w-3/5 h-2/5 rounded-3xl text-3xl pl-10 font-medium'/>
         <button className='searchSubmit bg-cyan p-8 rounded-3xl text-white text-3xl font-semibold'>Shorten it!</button>
     </div>
